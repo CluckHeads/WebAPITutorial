@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{58829EA8-12F0-4DEE-9E59-A9DA48D136AC}|">
+  <MonoDevelop.Ide.ItemProperties.WebApplication1.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApplication1/Web.config">
+    <Files>
+      <File FileName="WebApplication1/Web.config" Line="12" Column="5" IsPinned="True" />
+      <File FileName="WebApplication1/App_Start/WebApiConfig.cs" IsPinned="True" />
+      <File FileName="WebApplication1/Controllers/ValuesController.cs" />
+      <File FileName="WebApplication1/Controllers/DepartmentController.cs" />
+      <File FileName="WebApplication1/Models/Employee.cs" />
+      <File FileName="WebApplication1/Models/Department.cs" />
+      <File FileName="WebApplication1/packages.config" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebAPI" expanded="True">
+            <Node name="WebApplication1" expanded="True">
+              <Node name="App_Start" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Web.config" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebApplication1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

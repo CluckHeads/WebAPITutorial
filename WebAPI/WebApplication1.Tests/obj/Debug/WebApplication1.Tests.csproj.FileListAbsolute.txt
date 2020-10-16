@@ -1,0 +1,17 @@
+/Users/gagekettering/Desktop/WebAPITutorial/WebAPI/WebApplication1.Tests/bin/Debug/WebApplication1.Tests.dll
+/Users/gagekettering/Desktop/WebAPITutorial/WebAPI/WebApplication1.Tests/bin/Debug/WebApplication1.Tests.pdb
+/Users/gagekettering/Desktop/WebAPITutorial/WebAPI/WebApplication1.Tests/bin/Debug/Newtonsoft.Json.dll
+/Users/gagekettering/Desktop/WebAPITutorial/WebAPI/WebApplication1.Tests/bin/Debug/nunit.framework.dll
+/Users/gagekettering/Desktop/WebAPITutorial/WebAPI/WebApplication1.Tests/bin/Debug/System.Net.Http.Formatting.dll
+/Users/gagekettering/Desktop/WebAPITutorial/WebAPI/WebApplication1.Tests/bin/Debug/System.Web.Http.dll
+/Users/gagekettering/Desktop/WebAPITutorial/WebAPI/WebApplication1.Tests/bin/Debug/System.Web.Http.WebHost.dll
+/Users/gagekettering/Desktop/WebAPITutorial/WebAPI/WebApplication1.Tests/bin/Debug/nunit.framework.xml
+/Users/gagekettering/Desktop/WebAPITutorial/WebAPI/WebApplication1.Tests/bin/Debug/Newtonsoft.Json.xml
+/Users/gagekettering/Desktop/WebAPITutorial/WebAPI/WebApplication1.Tests/bin/Debug/System.Net.Http.Formatting.xml
+/Users/gagekettering/Desktop/WebAPITutorial/WebAPI/WebApplication1.Tests/bin/Debug/System.Web.Http.xml
+/Users/gagekettering/Desktop/WebAPITutorial/WebAPI/WebApplication1.Tests/bin/Debug/System.Web.Http.WebHost.xml
+/Users/gagekettering/Desktop/WebAPITutorial/WebAPI/WebApplication1.Tests/obj/Debug/WebApplication1.Tests.csprojAssemblyReference.cache
+/Users/gagekettering/Desktop/WebAPITutorial/WebAPI/WebApplication1.Tests/obj/Debug/WebApplication1.Tests.csproj.CoreCompileInputs.cache
+/Users/gagekettering/Desktop/WebAPITutorial/WebAPI/WebApplication1.Tests/obj/Debug/WebApplication1.Tests.csproj.CopyComplete
+/Users/gagekettering/Desktop/WebAPITutorial/WebAPI/WebApplication1.Tests/obj/Debug/WebApplication1.Tests.dll
+/Users/gagekettering/Desktop/WebAPITutorial/WebAPI/WebApplication1.Tests/obj/Debug/WebApplication1.Tests.pdb
